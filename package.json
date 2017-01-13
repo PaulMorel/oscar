@@ -1,0 +1,14 @@
+{
+  "name": "oscar",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulMorel/oscar.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
